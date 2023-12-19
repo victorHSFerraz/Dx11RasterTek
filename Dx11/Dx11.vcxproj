@@ -135,9 +135,6 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="small.ico" />
-  </ItemGroup>
-  <ItemGroup>
     <ClCompile Include="applicationclass.cpp" />
     <ClCompile Include="inputclass.cpp" />
     <ClCompile Include="main.cpp" />
